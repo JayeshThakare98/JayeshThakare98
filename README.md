@@ -36,7 +36,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayeshthakare98&show_icons=true&locale=en&layout=compact" alt="jayeshthakare98" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayeshthakare98&show_icons=true&locale=en" alt="jayeshthakare98" /></p>
- <p><img align="center" src="https://raw.githubusercontent.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only" alt="jayeshthakare98" height="300" width="100%"/></p>
+ <p><img align="center" src="https://raw.githubusercontent.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/output/github-contribution-grid-snake-sissa-white.svg#gh-all-mode" alt="jayeshthakare98" height="300" width="100%"/></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayeshthakare98&" alt="jayeshthakare98" /></p>
   
 <h1 align="center">👋Thank you for visiting </h1>
