@@ -8,7 +8,9 @@
      <a href="#" align="center"><img src="https://readme-typing-svg.herokuapp.com?color=FFF&center=true&lines=1500%2B+Hours+of+Coding+Experience;Data+Structure;Algorithm;JAVA;Full+Stack+Web+Developer;Spring+Booot;Multitaskig+is+everything"></img></a>
      <hr/>
      <div style="display:flex">
-    <p align="left" style="max-width:40%"><h3 align="center">A passionate Full stack JAVA Backend developer from India</h3>
+    <p align="left" style="max-width:40%"><h3 align="center">A passionate Full stack JAVA Backend developer from India </h3>
+     <h3 align="center">Like to learn new things Ready to work on them ,Keep growing and hustling is new way to succes</h3>
+     
 
 - 🌱 I’m currently learning **JAVA BACKEND**
 
