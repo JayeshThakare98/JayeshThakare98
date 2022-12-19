@@ -26,8 +26,8 @@
   <div Margin="Auto" class="column">
     <img src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif" alt="Snow" style="width:40%">
     <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jayesh-thakare-a4381a214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jayesh-thakare-a4381a214/" height="60" width="60" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/jayesht6masai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/jayesht6masai" height="60" width="60" /></a>
+<a href="https://www.linkedin.com/in/jayesh-thakare-a4381a214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jayesh-thakare-a4381a214/" height="60" width="60" /></a>
+
 </p>
   </div>
   
