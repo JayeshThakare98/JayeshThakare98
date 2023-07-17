@@ -16,9 +16,7 @@
 
 - 💬 Ask me about **HTML,CSS,JAVA SCRIPT,JAVA**
 
-- 📫 How to reach me **jayesht6898@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cABSLTySL7CPaRDKSBKZeVwzhwOkSY-u/view?usp=share_link](https://drive.google.com/file/d/1cABSLTySL7CPaRDKSBKZeVwzhwOkSY-u/view?usp=share_link)
+- 📄 Know about my experiences
 
 - ⚡ Fun fact **Love rap and addicted to heavy lifting**
 
